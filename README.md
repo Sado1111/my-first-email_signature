@@ -8,7 +8,7 @@ This project is a **responsive and professionally styled HTML email signature** 
 
 - Responsive layout (mobile-friendly)
 - Inline CSS for better email client support
-- Social media icon links (Facebook, LinkedIn, Instagram, Twitter)
+- Social media icon links (Facebook, LinkedIn, Instagram, X formerlyTwitter)
 - Stylish gradient and shadow effects
 - Clean and professional design
 - Fully customizable
@@ -98,10 +98,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🔗 Social Links
 
-[![Facebook](https://cdn-icons-png.flaticon.com/128/733/733547.png)](https://www.facebook.com)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)](https://www.linkedin.com/hannah-sado)
+[![X](https://cdn-icons-png.flaticon.com/128/5969/5969020.png)](https://www.twitter.com/HannahDatCodes/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)](https://www.linkedin.com/in/hannah-sado)
 [![Instagram](https://cdn-icons-png.flaticon.com/128/2111/2111463.png)](https://www.instagram.com)
-[![Twitter](https://cdn-icons-png.flaticon.com/128/733/733579.png)](https://www.twitter.com/HannahDatCodes/)
+[![Facebook](https://cdn-icons-png.flaticon.com/128/733/733547.png)](https://www.facebook.com)
 
 ---
 
