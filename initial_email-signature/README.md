@@ -8,7 +8,7 @@ This project is a **responsive and professionally styled HTML email signature** 
 
 - Responsive layout (mobile-friendly)
 - Inline CSS for better email client support
-- Social media icon links (Facebook, LinkedIn, Instagram, X formerlyTwitter)
+- Social media icon links (Facebook, LinkedIn, Instagram, X formerly Twitter)
 - Stylish gradient and shadow effects
 - Clean and professional design
 - Fully customizable
