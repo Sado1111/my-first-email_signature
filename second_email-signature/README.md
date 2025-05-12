@@ -89,7 +89,9 @@ Includes icons/links for:
 - Verify email client HTML support
 
 ## Author
-Phuthi M. Dabengwa
+Hannah Sado 
+
+About Ma'am Phuthi M. Dabengwa
 Executive Director
 
 ## Version
