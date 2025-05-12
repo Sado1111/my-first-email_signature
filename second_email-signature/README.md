@@ -3,6 +3,13 @@
 ## Overview
 This is a professionally designed HTML email signature for Phuthi M. Dabengwa, an Executive Director. The signature combines a clean, modern design with personal branding and contact information.
 
+
+## My Project
+
+Here's a screenshot of my project:
+
+![Project Screenshot](email-signature2.png)
+
 ## Features
 
 ### Design Highlights
