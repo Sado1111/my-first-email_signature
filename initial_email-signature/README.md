@@ -17,7 +17,8 @@ This project is a **responsive and professionally styled HTML email signature** 
 
 ## 📸 Preview
 
-![Signature Preview](https://i.postimg.cc/J4x2fL3w/Newer-size.png)
+![Project Screenshot](email-signature1.png)
+
 
 ---
 
