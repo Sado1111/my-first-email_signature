@@ -33,13 +33,13 @@ This project contains HTML email signature templates designed for "The Reel Mayo
 ## 📸 Screenshots
 
 ### Red & Purple Variation
-![Red & Purple Variation](1-email_signature)
+![Red & Purple Variation](1-email_signature.png)
 
 ### Teal Variation
-![Teal Variation](2-email_signature)
+![Teal Variation](2-email_signature.png)
 
 ### Green & Purple Variation
-![Green & Purple Variation](3-email_signature)
+![Green & Purple Variation](3-email_signature.png)
 
 ## 💻 Installation
 
